@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "baby-tolk": "^5.0.1",
-    "checkdir": "^1.0.0",
+    "checkdir": "^1.1.0",
     "micromatch": "^2.3.11",
     "mkdirp": "^0.5.1",
     "path-complete-extname": "^0.1.0",
