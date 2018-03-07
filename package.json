@@ -32,7 +32,7 @@
     "checkdir": "^1.0.0",
     "micromatch": "^2.3.11",
     "mkdirp": "^0.5.1",
-    "path-complete-extname": "^0.1.0",
+    "path-complete-extname": "^1.0.0",
     "readdirp": "2.0.1",
     "rimraf": "^2.5.3",
     "through2": "^2.0.0",
